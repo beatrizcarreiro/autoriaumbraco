@@ -1,2 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<map />
+<map>
+  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczs" file="C:\Users\Beatriz\Pessoal\autoriaumbraco\Autoria\App_Data\TEMP\ClientDependency\302224643_7f635e4e1dca4f47822bd265acfa6e84.cdC" compression="gzip" version="302224643">
+    <files>
+      <file name="/umbraco/assets/css/umbraco.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7" file="C:\Users\Beatriz\Pessoal\autoriaumbraco\Autoria\App_Data\TEMP\ClientDependency\302224643_f524027589754858a507d83e3da84e7e.cdJ" compression="gzip" version="302224643">
+    <files>
+      <file name="/umbraco_client/ui/default.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0RpYWxvZ3MvU29ydERpYWxvZy5jc3M7L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczs" file="C:\Users\Beatriz\Pessoal\autoriaumbraco\Autoria\App_Data\TEMP\ClientDependency\302224643_6aec97abba094f78b4361720e89f16f0.cdC" compression="gzip" version="302224643">
+    <files>
+      <file name="/umbraco_client/Dialogs/SortDialog.css" />
+      <file name="/umbraco/assets/css/umbraco.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L0RpYWxvZ3MvU29ydERpYWxvZy5qczsvdW1icmFjb19jbGllbnQvdGFibGVzb3J0aW5nL2pxdWVyeS50YWJsZXNvcnRlci5taW4uanM7L3VtYnJhY29fY2xpZW50L3RhYmxlc29ydGluZy90YWJsZURyYWdBbmREcm9wLmpzOw" file="C:\Users\Beatriz\Pessoal\autoriaumbraco\Autoria\App_Data\TEMP\ClientDependency\302224643_7d7fe8c6d24d48cf88faa2731d6285d6.cdJ" compression="gzip" version="302224643">
+    <files>
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/Dialogs/SortDialog.js" />
+      <file name="/umbraco_client/tablesorting/jquery.tablesorter.min.js" />
+      <file name="/umbraco_client/tablesorting/tableDragAndDrop.js" />
+    </files>
+  </item>
+</map>

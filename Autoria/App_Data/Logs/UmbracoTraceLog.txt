@@ -1496,3 +1496,140 @@
 2014-04-28 15:07:37,157 [8] INFO  Umbraco.Core.PluginManager - [Thread 9] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 22 (took 6ms)
 2014-04-28 15:07:37,436 [8] INFO  Umbraco.Core.PluginManager - [Thread 9] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
 2014-04-28 15:07:37,450 [8] INFO  Umbraco.Core.PluginManager - [Thread 9] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 43 (took 13ms)
+2014-04-28 15:14:04,252 [8] INFO  Umbraco.Core.PluginManager - [Thread 24] Starting resolution types of umbraco.interfaces.ICacheRefresher
+2014-04-28 15:14:04,264 [8] INFO  Umbraco.Core.PluginManager - [Thread 24] Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 20 (took 11ms)
+2014-04-28 15:14:04,338 [8] INFO  Umbraco.Web.Security.WebSecurity - [Thread 24] User Id: 0 logged in
+2014-04-28 15:14:31,238 [8] INFO  Umbraco.Core.PluginManager - [Thread 22] Starting resolution types of umbraco.interfaces.ITree
+2014-04-28 15:14:31,245 [8] INFO  Umbraco.Core.PluginManager - [Thread 22] Completed resolution of types of umbraco.interfaces.ITree, found 35 (took 6ms)
+2014-04-28 15:35:31,760 [8] INFO  umbraco.BusinessLogic.Log - [Thread 48] Log scrubbed.  Removed all items older than 2014-02-27 15:35:31
+2014-04-28 15:35:31,763 [8] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 48] Application shutdown. Reason: HostingEnvironment
+2014-04-28 15:35:55,371 [47] INFO  Umbraco.Core.PluginManager - [Thread 42] Determining hash of code files on disk
+2014-04-28 15:35:55,381 [47] INFO  Umbraco.Core.PluginManager - [Thread 42] Hash determined (took 6ms)
+2014-04-28 15:35:55,390 [47] INFO  Umbraco.Core.PluginManager - [Thread 42] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2014-04-28 15:35:55,405 [47] INFO  Umbraco.Core.PluginManager - [Thread 42] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 34 (took 13ms)
+2014-04-28 15:35:55,481 [47] INFO  Umbraco.Core.PluginManager - [Thread 42] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2014-04-28 15:35:55,482 [47] INFO  Umbraco.Core.PluginManager - [Thread 42] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 0ms)
+2014-04-28 15:35:55,482 [47] INFO  Umbraco.Core.PluginManager - [Thread 42] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2014-04-28 15:35:55,483 [47] INFO  Umbraco.Core.PluginManager - [Thread 42] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 14 (took 1ms)
+2014-04-28 15:35:55,500 [47] INFO  Umbraco.Core.PluginManager - [Thread 42] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2014-04-28 15:35:55,500 [47] INFO  Umbraco.Core.PluginManager - [Thread 42] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 0ms)
+2014-04-28 15:35:55,500 [47] INFO  Umbraco.Core.PluginManager - [Thread 42] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2014-04-28 15:35:55,503 [47] INFO  Umbraco.Core.PluginManager - [Thread 42] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 29 (took 2ms)
+2014-04-28 15:35:55,506 [47] INFO  Umbraco.Core.PluginManager - [Thread 42] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2014-04-28 15:35:55,507 [47] INFO  Umbraco.Core.PluginManager - [Thread 42] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 0ms)
+2014-04-28 15:35:55,507 [47] INFO  Umbraco.Core.PluginManager - [Thread 42] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2014-04-28 15:35:55,508 [47] INFO  Umbraco.Core.PluginManager - [Thread 42] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 0ms)
+2014-04-28 15:35:56,051 [47] INFO  Umbraco.Core.PluginManager - [Thread 42] Starting resolution types of umbraco.interfaces.IApplication
+2014-04-28 15:35:56,052 [47] INFO  Umbraco.Core.PluginManager - [Thread 42] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 0ms)
+2014-04-28 15:35:56,093 [47] INFO  Umbraco.Core.PluginManager - [Thread 42] Starting resolution types of Umbraco.Web.Trees.TreeController
+2014-04-28 15:35:56,094 [47] INFO  Umbraco.Core.PluginManager - [Thread 42] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2014-04-28 15:35:56,104 [47] INFO  Umbraco.Core.PluginManager - [Thread 42] Starting resolution types of umbraco.interfaces.ITree
+2014-04-28 15:35:56,105 [47] INFO  Umbraco.Core.PluginManager - [Thread 42] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 0ms)
+2014-04-28 15:35:56,117 [47] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 42] Initializing Examine and binding to business logic events
+2014-04-28 15:35:56,320 [47] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 42] Adding examine event handlers for index providers: 3
+2014-04-28 15:36:18,431 [47] INFO  Umbraco.Core.PluginManager - [Thread 46] Starting resolution types of umbraco.interfaces.ITree
+2014-04-28 15:36:18,432 [47] INFO  Umbraco.Core.PluginManager - [Thread 46] Completed resolution of types of umbraco.interfaces.ITree, found 35 (took 0ms)
+2014-04-28 15:36:23,636 [47] INFO  Umbraco.Core.PluginManager - [Thread 43] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2014-04-28 15:36:23,637 [47] INFO  Umbraco.Core.PluginManager - [Thread 43] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 22 (took 1ms)
+2014-04-28 15:36:31,399 [47] INFO  umbraco.BusinessLogic.Log - [Thread 43] Log scrubbed.  Removed all items older than 2014-02-27 15:36:31
+2014-04-28 15:36:31,401 [47] INFO  Umbraco.Core.UmbracoApplicationBase - [Thread 43] Application shutdown. Reason: ConfigurationChange
+2014-04-28 15:36:37,213 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Determining hash of code files on disk
+2014-04-28 15:36:37,224 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Hash determined (took 6ms)
+2014-04-28 15:36:37,242 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplicationStartupHandler
+2014-04-28 15:36:37,501 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplicationStartupHandler, found 34 (took 259ms)
+2014-04-28 15:36:37,566 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+2014-04-28 15:36:37,573 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter, found 0 (took 7ms)
+2014-04-28 15:36:37,574 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.PropertyEditors.IPropertyValueConverter
+2014-04-28 15:36:37,580 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.PropertyEditors.IPropertyValueConverter, found 14 (took 6ms)
+2014-04-28 15:36:37,592 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Mvc.SurfaceController
+2014-04-28 15:36:37,598 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Mvc.SurfaceController, found 4 (took 5ms)
+2014-04-28 15:36:37,598 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.WebApi.UmbracoApiController
+2014-04-28 15:36:37,605 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.WebApi.UmbracoApiController, found 29 (took 7ms)
+2014-04-28 15:36:37,607 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IThumbnailProvider
+2014-04-28 15:36:37,620 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IThumbnailProvider, found 3 (took 12ms)
+2014-04-28 15:36:37,620 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Core.Media.IImageUrlProvider
+2014-04-28 15:36:37,626 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Core.Media.IImageUrlProvider, found 1 (took 6ms)
+2014-04-28 15:36:38,215 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of Umbraco.Web.Trees.TreeController
+2014-04-28 15:36:38,225 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 9ms)
+2014-04-28 15:36:38,235 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.ITree
+2014-04-28 15:36:38,244 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.ITree, found 19 (took 9ms)
+2014-04-28 15:36:38,253 [37] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Initializing Examine and binding to business logic events
+2014-04-28 15:36:38,485 [37] INFO  Umbraco.Web.Search.ExamineEvents - [Thread 1] Adding examine event handlers for index providers: 3
+2014-04-28 15:36:38,489 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Starting resolution types of umbraco.interfaces.IApplication
+2014-04-28 15:36:38,501 [37] INFO  Umbraco.Core.PluginManager - [Thread 1] Completed resolution of types of umbraco.interfaces.IApplication, found 7 (took 12ms)
+2014-04-28 15:36:38,804 [37] INFO  umbraco.content - [Thread 40] Loading content from disk cache...
+2014-04-28 15:36:38,958 [37] INFO  Umbraco.Core.PluginManager - [Thread 40] Starting resolution types of Umbraco.Core.Persistence.Mappers.BaseMapper
+2014-04-28 15:36:38,963 [37] INFO  Umbraco.Core.PluginManager - [Thread 40] Completed resolution of types of Umbraco.Core.Persistence.Mappers.BaseMapper, found 22 (took 5ms)
+2014-04-28 15:36:39,218 [37] INFO  Umbraco.Core.PluginManager - [Thread 40] Starting resolution types of Umbraco.Core.PropertyEditors.IParameterEditor
+2014-04-28 15:36:39,243 [37] INFO  Umbraco.Core.PluginManager - [Thread 40] Completed resolution of types of Umbraco.Core.PropertyEditors.IParameterEditor, found 43 (took 24ms)
+2014-04-28 15:36:50,732 [37] INFO  Umbraco.Core.PluginManager - [Thread 40] Starting resolution types of umbraco.interfaces.ITree
+2014-04-28 15:36:50,741 [37] INFO  Umbraco.Core.PluginManager - [Thread 40] Completed resolution of types of umbraco.interfaces.ITree, found 35 (took 8ms)
+2014-04-28 15:36:56,333 [37] INFO  Umbraco.Core.PluginManager - [Thread 40] Starting resolution types of umbraco.interfaces.ICacheRefresher
+2014-04-28 15:36:56,343 [37] INFO  Umbraco.Core.PluginManager - [Thread 40] Completed resolution of types of umbraco.interfaces.ICacheRefresher, found 20 (took 10ms)
+2014-04-28 15:38:03,761 [37] INFO  Umbraco.Core.Persistence.UmbracoDatabase - [Thread 44]    at System.Data.SqlServerCe.SqlCeCommand.ProcessResults(Int32 hr)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommandText(IntPtr& pCursor, Boolean& isBaseTableCursor)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteCommand(CommandBehavior behavior, String method, ResultSetOptions options)
+   at System.Data.SqlServerCe.SqlCeCommand.ExecuteNonQuery()
+   at StackExchange.Profiling.Data.ProfiledDbCommand.ExecuteNonQuery() in c:\Code\github\SamSaffron\MiniProfiler\StackExchange.Profiling\Data\ProfiledDbCommand.cs:line 266
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.<>c__DisplayClass1.<ExecuteNonQueryWithRetry>b__0()
+   at Umbraco.Core.Persistence.FaultHandling.RetryPolicy.ExecuteAction[TResult](Func`1 func)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy cmdRetryPolicy, RetryPolicy conRetryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command, RetryPolicy retryPolicy)
+   at Umbraco.Core.Persistence.PetaPocoCommandExtensions.ExecuteNonQueryWithRetry(IDbCommand command)
+   at Umbraco.Core.Persistence.Database.Execute(String sql, Object[] args)
+2014-04-28 15:38:16,565 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 40] Content 'Getting Started' with Id '1069' has been unpublished.
+2014-04-28 15:38:17,243 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 40] Content 'Go Further' with Id '1070' has been unpublished.
+2014-04-28 15:38:17,350 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 40] Content 'Installing Modules' with Id '1071' has been unpublished.
+2014-04-28 15:38:17,466 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 40] Content 'About' with Id '1072' has been unpublished.
+2014-04-28 15:38:17,647 [37] INFO  umbraco.content - [Thread 44] Loading content from database...
+2014-04-28 15:38:21,658 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 40] Content 'The 10 remarkable features of object' with Id '1074' has been unpublished.
+2014-04-28 15:38:21,854 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 40] Content 'This is a wonderful news item' with Id '1075' has been unpublished.
+2014-04-28 15:38:21,995 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 40] Content 'You really need to read this!' with Id '1076' has been unpublished.
+2014-04-28 15:38:22,174 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 40] Content 'Txt Starter Kit For Umbraco Released' with Id '1077' has been unpublished.
+2014-04-28 15:38:22,296 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 40] Content 'News' with Id '1073' has been unpublished.
+2014-04-28 15:38:22,434 [37] INFO  umbraco.content - [Thread 44] Loading content from database...
+2014-04-28 15:38:27,451 [37] INFO  umbraco.content - [Thread 43] Loading content from database...
+2014-04-28 15:38:31,647 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 32] Content 'Home' with Id '1068' has been unpublished.
+2014-04-28 15:38:31,867 [37] INFO  umbraco.content - [Thread 40] Loading content from database...
+2014-04-28 15:38:36,909 [37] INFO  umbraco.content - [Thread 43] Loading content from database...
+2014-04-28 15:42:49,480 [37] INFO  Umbraco.Core.PluginManager - [Thread 41] Starting resolution types of Umbraco.Web.Trees.TreeController
+2014-04-28 15:42:49,480 [37] INFO  Umbraco.Core.PluginManager - [Thread 41] Completed resolution of types of Umbraco.Web.Trees.TreeController, found 4 (took 0ms)
+2014-04-28 15:43:12,797 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 46] Content 'Home' with Id '0' has been published.
+2014-04-28 16:03:19,972 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 9] Content 'Banners' with Id '0' has been published.
+2014-04-28 16:12:08,953 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 15] Content 'Destaque 01' with Id '0' has been published.
+2014-04-28 16:15:16,522 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 9] Content 'Destaque 01' with Id '1094' has been unpublished.
+2014-04-28 16:17:44,323 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 21] Content 'Destaque 01' with Id '0' has been published.
+2014-04-28 16:17:59,907 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 36] Content 'Destaque 01' with Id '1095' has been published.
+2014-04-28 16:18:45,714 [37] INFO  umbraco.content - [Thread 8] Loading content from database...
+2014-04-28 16:26:34,021 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 21] Content 'Quejm Somos' with Id '0' has been published.
+2014-04-28 16:27:38,021 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 17] Content 'Quejm Somos' with Id '1098' has been published.
+2014-04-28 16:28:57,550 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 26] Content 'Quem Somos' with Id '1098' has been published.
+2014-04-28 16:29:09,792 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 36] Content 'Quem Somos' with Id '1098' has been published.
+2014-04-28 16:29:18,495 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 10] Content 'Quem Somos' with Id '1098' has been published.
+2014-04-28 16:33:56,094 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 41] Content 'Destaque 01' with Id '1095' has been published.
+2014-04-28 16:36:40,490 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 26] Content 'Metodologia' with Id '0' has been published.
+2014-04-28 16:40:07,213 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 36] Content 'Metodologia' with Id '1108' has been published.
+2014-04-28 16:46:34,739 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 15] Content 'Metodologia' with Id '1108' has been unpublished.
+2014-04-28 16:49:07,702 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 35] Content 'Metodologia' with Id '0' has been published.
+2014-04-28 16:49:35,895 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 41] Content 'Fuvest' with Id '0' has been published.
+2014-04-28 16:50:14,502 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 38] Content 'Enem' with Id '0' has been published.
+2014-04-28 16:50:45,555 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 9] Content 'Unicamp' with Id '0' has been published.
+2014-04-28 16:58:18,027 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 13] Content 'FAQs' with Id '0' has been published.
+2014-04-28 16:58:57,824 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 38] Content 'pergunta importância do curso' with Id '0' has been published.
+2014-04-28 16:59:30,929 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 38] Content 'pergunta assunto do tema' with Id '0' has been published.
+2014-04-28 17:02:41,274 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 45] Content 'FAQs' with Id '1124' has been published.
+2014-04-28 17:23:02,389 [37] INFO  umbraco.content - [Thread 50] Loading content from database...
+2014-04-28 17:29:41,025 [37] INFO  umbraco.content - [Thread 55] Loading content from database...
+2014-04-28 17:34:23,041 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 55] Content 'Grade de Horários' with Id '0' has been published.
+2014-04-28 17:36:12,349 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 19] Content 'Evento Teste 01' with Id '0' has been published.
+2014-04-28 17:40:59,689 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 61] Content 'Contato' with Id '0' has been published.
+2014-04-28 17:53:47,699 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 34] Content 'Noticias' with Id '0' has been published.
+2014-04-28 17:55:56,233 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 12] Content 'Noticias' with Id '1141' has been published.
+2014-04-28 17:55:58,392 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 13] Content 'Noticias' with Id '1141' has been published.
+2014-04-28 17:56:24,106 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 44] Content 'Noticia 01' with Id '0' has been published.
+2014-04-28 17:56:52,440 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 8] Content 'Contato' with Id '1136' has been published.
+2014-04-28 17:56:52,440 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 8] Content 'FAQs' with Id '1124' has been published.
+2014-04-28 18:06:08,455 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 36] Content 'Destaques da Home' with Id '0' has been published.
+2014-04-28 18:07:31,402 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 28] Content 'Destaque Método Personalizado' with Id '0' has been published.
+2014-04-28 18:07:31,578 [37] INFO  UmbracoExamine.DataServices.UmbracoLogService - [Thread 8] Index is being optimized, Provider=InternalIndexer, NodeId=-1
+2014-04-28 18:07:42,078 [37] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 25] Content 'Destaque Método Personalizado' with Id '1146' has been published.
