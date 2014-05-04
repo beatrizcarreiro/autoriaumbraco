@@ -536,3 +536,7 @@ System.InvalidOperationException: The view at '~/Views/Interna.cshtml' must deri
 2014-05-04 17:15:32,053 [11] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - [Thread 52] Could not find persisted pre-value for field hideLabel
 2014-05-04 17:19:33,901 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 45] Content 'Metodologia' with Id '1118' has been published.
 2014-05-04 17:20:08,387 [11] INFO  Umbraco.Core.Publishing.PublishingStrategy - [Thread 45] Content 'Metodologia' with Id '1118' has been published.
+2014-05-04 17:51:31,914 [11] INFO  Umbraco.Web.Security.WebSecurity - [Thread 41] User Id: 1 logged in
+2014-05-04 17:51:35,953 [11] INFO  Umbraco.Web.Security.WebSecurity - [Thread 23] User Id: 1 logged in
+2014-05-04 17:51:39,850 [11] INFO  Umbraco.Web.Security.WebSecurity - [Thread 16] User Id: 1 logged in
+2014-05-04 17:51:43,822 [11] INFO  Umbraco.Web.Security.WebSecurity - [Thread 52] User Id: 1 logged in
