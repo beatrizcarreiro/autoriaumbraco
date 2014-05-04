@@ -1,8 +1,7 @@
 ﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
-@inherits umbraco.MacroEngines.DynamicNodeContext
 
 @{
     Layout = "Master.cshtml";
 }
 
-<h3>Interna</h3>
+@Umbraco.RenderMacro("InternaConteudo")

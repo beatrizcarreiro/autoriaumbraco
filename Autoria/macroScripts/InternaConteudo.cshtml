@@ -1,0 +1,15 @@
+@inherits umbraco.MacroEngines.DynamicNodeContext
+
+@{
+    var conteudo = Model.conteudo;
+    var titulo = Model.titulo;
+    var imagem = Library.MediaById(Model.imagem);
+}
+
+<h2>@titulo</h2>
+
+<div class="well">
+    <img src="@imagem.Url" />
+    @conteudo
+</div>
+
