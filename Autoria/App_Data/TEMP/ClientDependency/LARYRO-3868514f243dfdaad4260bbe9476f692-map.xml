@@ -122,4 +122,67 @@
       <file name="/umbraco_client/splitbutton/InsertMacroSplitButton.js" />
     </files>
   </item>
+  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczsvdW1icmFjb19jbGllbnQvR2VuZXJpY1Byb3BlcnR5L2dlbmVyaWNwcm9wZXJ0eS5jc3M7L3VtYnJhY29fY2xpZW50L3VpL2RkLmNzczs" file="C:\Users\Laryssa Rocha\Documents\Projetos\Pessoal\autoriaumbraco\Autoria\App_Data\TEMP\ClientDependency\302224643_f04a128dac924498b3af5058d2f1b81b.cdC" compression="gzip" version="302224643">
+    <files>
+      <file name="/umbraco/assets/css/umbraco.css" />
+      <file name="/umbraco_client/GenericProperty/genericproperty.css" />
+      <file name="/umbraco_client/ui/dd.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0dlbmVyaWNQcm9wZXJ0eS9nZW5lcmljcHJvcGVydHkuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5kZC5qczs" file="C:\Users\Laryssa Rocha\Documents\Projetos\Pessoal\autoriaumbraco\Autoria\App_Data\TEMP\ClientDependency\302224643_2399ce2a124e40fea5c95a03df55d136.cdJ" compression="gzip" version="302224643">
+    <files>
+      <file name="/umbraco_client/GenericProperty/genericproperty.js" />
+      <file name="/umbraco_client/ui/jquery.dd.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0RpYWxvZ3MvUHVibGlzaERpYWxvZy5jc3M7L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczs" file="C:\Users\Laryssa Rocha\Documents\Projetos\Pessoal\autoriaumbraco\Autoria\App_Data\TEMP\ClientDependency\302224643_baa2d763478c42acbaf8fc4340d190f3.cdC" compression="gzip" version="302224643">
+    <files>
+      <file name="/umbraco_client/Dialogs/PublishDialog.css" />
+      <file name="/umbraco/assets/css/umbraco.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY28vanMvdW1icmFjb0NoZWNrS2V5cy5qczsvdW1icmFjb19jbGllbnQvRGlhbG9ncy9QdWJsaXNoRGlhbG9nLmpzOw" file="C:\Users\Laryssa Rocha\Documents\Projetos\Pessoal\autoriaumbraco\Autoria\App_Data\TEMP\ClientDependency\302224643_332bff40546f4767bfd7ec1613fa2155.cdJ" compression="gzip" version="302224643">
+    <files>
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco/js/umbracoCheckKeys.js" />
+      <file name="/umbraco_client/Dialogs/PublishDialog.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0VkaXRvcnMvRWRpdE1hY3JvLmNzczsvdW1icmFjby9hc3NldHMvY3NzL3VtYnJhY28uY3NzOw" file="C:\Users\Laryssa Rocha\Documents\Projetos\Pessoal\autoriaumbraco\Autoria\App_Data\TEMP\ClientDependency\302224643_d5db7137c4fa46859b8631ba52a77d63.cdC" compression="gzip" version="302224643">
+    <files>
+      <file name="/umbraco_client/Editors/EditMacro.css" />
+      <file name="/umbraco/assets/css/umbraco.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0RpYWxvZ3MvQXNzaWduRG9tYWluMi5jc3M7L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczsvdW1icmFjb19jbGllbnQvdWkvZGVmYXVsdC5jc3M7" file="C:\Users\Laryssa Rocha\Documents\Projetos\Pessoal\autoriaumbraco\Autoria\App_Data\TEMP\ClientDependency\302224643_f87e213a05e94724b86aa545bbaf1374.cdC" compression="gzip" version="302224643">
+    <files>
+      <file name="/umbraco_client/Dialogs/AssignDomain2.css" />
+      <file name="/umbraco/assets/css/umbraco.css" />
+      <file name="/umbraco_client/ui/default.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L3VpL2RlZmF1bHQuanM7L3VtYnJhY29fY2xpZW50L0RpYWxvZ3MvQXNzaWduRG9tYWluMi5qczsvdW1icmFjb19jbGllbnQvQXBwbGljYXRpb24vSlF1ZXJ5L2pxdWVyeS52YWxpZGF0ZS5taW4uanM7" file="C:\Users\Laryssa Rocha\Documents\Projetos\Pessoal\autoriaumbraco\Autoria\App_Data\TEMP\ClientDependency\302224643_4bc91d6f4b3149188936d944e2157512.cdJ" compression="gzip" version="302224643">
+    <files>
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/Dialogs/AssignDomain2.js" />
+      <file name="/umbraco_client/Application/JQuery/jquery.validate.min.js" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY28vYXNzZXRzL2Nzcy91bWJyYWNvLmNzczsvdW1icmFjb19jbGllbnQvRGFzaGJvYXJkcy9FeGFtaW5lTWFuYWdlbWVudC5jc3M7" file="C:\Users\Laryssa Rocha\Documents\Projetos\Pessoal\autoriaumbraco\Autoria\App_Data\TEMP\ClientDependency\302224643_938386ff41184c8890783f8c979cb1eb.cdC" compression="gzip" version="302224643">
+    <files>
+      <file name="/umbraco/assets/css/umbraco.css" />
+      <file name="/umbraco_client/Dashboards/ExamineManagement.css" />
+    </files>
+  </item>
+  <item key="L3VtYnJhY29fY2xpZW50L0FwcGxpY2F0aW9uL05hbWVzcGFjZU1hbmFnZXIuanM7L3VtYnJhY29fY2xpZW50L3VpL2pxdWVyeS5qczsvdW1icmFjb19jbGllbnQvdWkvYmFzZTIuanM7L3VtYnJhY29fY2xpZW50L1VJL2tub2Nrb3V0LmpzOy91bWJyYWNvX2NsaWVudC9VSS9rbm9ja291dC5tYXBwaW5nLmpzOy91bWJyYWNvX2NsaWVudC91aS9kZWZhdWx0LmpzOy91bWJyYWNvX2NsaWVudC9EYXNoYm9hcmRzL0V4YW1pbmVNYW5hZ2VtZW50LmpzOw" file="C:\Users\Laryssa Rocha\Documents\Projetos\Pessoal\autoriaumbraco\Autoria\App_Data\TEMP\ClientDependency\302224643_73dd291db8d74cc082ed81551d26583c.cdJ" compression="gzip" version="302224643">
+    <files>
+      <file name="/umbraco_client/Application/NamespaceManager.js" />
+      <file name="/umbraco_client/ui/jquery.js" />
+      <file name="/umbraco_client/ui/base2.js" />
+      <file name="/umbraco_client/UI/knockout.js" />
+      <file name="/umbraco_client/UI/knockout.mapping.js" />
+      <file name="/umbraco_client/ui/default.js" />
+      <file name="/umbraco_client/Dashboards/ExamineManagement.js" />
+    </files>
+  </item>
 </map>
