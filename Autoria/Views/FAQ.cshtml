@@ -2,5 +2,9 @@
 @{
     Layout = "Master.cshtml";
 }
+@section Scripts {
+    <script src="~/scripts/faqs.js"></script>
+}
 
-<h3>FAQ</h3>
+
+@Umbraco.RenderMacro("ListagemFAQ")

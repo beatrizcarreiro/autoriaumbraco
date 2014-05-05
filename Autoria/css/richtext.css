@@ -1,4 +1,10 @@
-/* EDITOR PROPERTIES - PLEASE DON'T DELETE THIS LINE TO AVOID DUPLICATE PROPERTIES */
+.richtext table td {
+    vertical-align: middle;
+    text-align:center;
+}
+.richtext table img {
+	margin: 10px;
+}/* EDITOR PROPERTIES - PLEASE DON'T DELETE THIS LINE TO AVOID DUPLICATE PROPERTIES */
 h2 {
 
 }

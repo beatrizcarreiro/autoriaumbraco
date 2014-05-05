@@ -6,10 +6,10 @@
     var imagem = Library.MediaById(Model.imagem);
 }
 
-<h2>@titulo</h2>
+<img src="@imagem.Url" class="img-destaque" />
 
-<div class="well">
-    <img src="@imagem.Url" />
+<h2>@titulo</h2>
+    
+<div class="richtext">
     @conteudo
 </div>
-

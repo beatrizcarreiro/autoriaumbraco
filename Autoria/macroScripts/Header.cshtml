@@ -18,7 +18,27 @@
             <ul class="nav navbar-nav">
             @foreach (var pagina in paginas.Where("documentTypeAlias != \"Banners\""))
             {
-                <li><a href="@pagina.Url">@pagina.Name</a></li>
+                if (pagina.Name == "Servicos")
+                {
+                    <li class="dropdown">
+                        <a href="@pagina.Url" class="dropdown-toggle" data-toggle="dropdown">
+                            @pagina.titulo
+                            <b class="caret"></b>
+                        </a>
+                        <ul class="dropdown-menu">
+                            @foreach (var filho in pagina.Children)
+                            {
+                                <li><a href="@filho.Url">@filho.titulo</a></li>
+                            }
+                        </ul>
+                    </li>
+                }
+                else
+                {
+                    <li>
+                        <a href="@pagina.Url">@pagina.titulo</a>
+                    </li>
+                }
             }
             </ul>
         </nav><!--/.nav-collapse -->
