@@ -245,6 +245,7 @@
     <Content Include="macroScripts\Footer.cshtml" />
     <Content Include="macroScripts\ContatoConteudo.cshtml" />
     <Content Include="macroScripts\FAQConteudo.cshtml" />
+    <Content Include="macroScripts\EventoConteudo.cshtml" />
     <None Include="macroScripts\Header.cshtml" />
     <Content Include="masterpages\dummy.txt" />
     <Content Include="media\dummy.txt" />
@@ -309,6 +310,7 @@
     <Content Include="macroScripts\RedirectPage.cshtml">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="macroScripts\ListagemEventos.cshtml" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
@@ -341,6 +343,7 @@
     <Content Include="Views\Redirect.cshtml">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="Views\Eventos.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
