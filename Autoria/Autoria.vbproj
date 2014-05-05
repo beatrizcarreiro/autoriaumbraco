@@ -235,15 +235,20 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="css\autoria.css" />
+    <Content Include="css\interna.css" />
     <Content Include="css\lib\bootstrap-theme.min.css" />
     <Content Include="css\lib\bootstrap.min.css" />
     <Content Include="css\lib\jquery-ui-1.10.4.css" />
+    <Content Include="css\richtext.css" />
     <Content Include="default.aspx" />
     <Content Include="Global.asax" />
     <Content Include="macroScripts\Footer.cshtml" />
+    <Content Include="macroScripts\ContatoConteudo.cshtml" />
+    <Content Include="macroScripts\FAQConteudo.cshtml" />
     <None Include="macroScripts\Header.cshtml" />
     <Content Include="masterpages\dummy.txt" />
     <Content Include="media\dummy.txt" />
+    <Content Include="scripts\faqs.js" />
     <Content Include="scripts\lib\bootstrap.min.js" />
     <Content Include="scripts\lib\jquery-1.9.1.min.js" />
     <Content Include="scripts\lib\jquery-ui-1.10.4.min.js" />
@@ -299,6 +304,11 @@
     <Content Include="config\applications.config" />
     <Content Include="config\404handlers.config" />
     <Content Include="macroScripts\ListagemNoticias.cshtml" />
+    <Content Include="macroScripts\InternaConteudo.cshtml" />
+    <Content Include="macroScripts\ListagemFAQ.cshtml" />
+    <Content Include="macroScripts\RedirectPage.cshtml">
+      <SubType>Code</SubType>
+    </Content>
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
       <LastGenOutput>Application.Designer.vb</LastGenOutput>
@@ -325,6 +335,10 @@
     <Content Include="Views\Metodologia.cshtml" />
     <Content Include="Views\Noticias.cshtml" />
     <Content Include="Views\Noticia.cshtml">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="Views\ItemFAQ.cshtml" />
+    <Content Include="Views\Redirect.cshtml">
       <SubType>Code</SubType>
     </Content>
     <None Include="Web.Debug.config">
